@@ -4,3 +4,8 @@
 function toCelsius(fahrenheit) {
   return (5/9) * (fahrenheit-32);
 }
+
+
+- [x] take mid term
+- [x] walk dogs
+- [ ] finish homework
